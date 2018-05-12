@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3468
     wikipedia: http://homepages.ihug.co.nz/~freethought/cassels/bio.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30672#Eidolon-or-The-Course-of-a-Soul--13-And-Other-Poems
 gutenberg_issued: '2009-12-13'
 gutenberg_type: Text
 identifiers:
